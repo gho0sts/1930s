@@ -2,9 +2,9 @@
 
 #google_analytics: 
 
-#header_pages:
-#  - index.md
-#  - about.md
+header_pages:
+  - index.md
+  - about.md
 
 footer: 
 
